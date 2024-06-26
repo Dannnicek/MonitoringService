@@ -12,6 +12,6 @@ public class EndpointTaskApplication {
 		SpringApplication.run(EndpointTaskApplication.class, args);
 	}
 
-	//Pridavam komentar
+	//Pridavam komentar delsi
 
 }
