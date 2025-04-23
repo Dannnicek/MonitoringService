@@ -12,4 +12,6 @@ public class EndpointTaskApplication {
 		SpringApplication.run(EndpointTaskApplication.class, args);
 	}
 
+//	TEST
+
 }
