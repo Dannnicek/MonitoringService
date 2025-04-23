@@ -13,5 +13,6 @@ public class EndpointTaskApplication {
 	}
 
 	//Pridavam komentar delsi
+	// funguje github jira integrace?
 
 }
